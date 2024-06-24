@@ -1,0 +1,50 @@
+*
+{
+    
+    color: white;
+    text-align: center;
+    justify-content: center;
+}
+body{
+    background-color: rgb(200, 169, 169);
+}
+h1
+{
+    font-family:cursive;
+    font-size: 40px;
+    /* font-weight: bold; */
+    margin-bottom: 20px;
+    color: #f5f0f0;
+
+}
+.effect
+{
+    display: flex;
+    gap: 2em;
+    /* padding-top: 10em; */
+}
+.button
+{
+    background-color: rgb(255, 255, 255);
+    color: black;
+    border:1px solid blue;
+    padding: 80px 80px;
+    font-size: 16px;
+    cursor: pointer;
+}
+#grey
+{
+    background-color: grey;
+}
+#brown
+{
+    background-color: brown;
+}
+#green
+{
+    background-color: green;
+}
+#orange
+{
+    background-color: orange;
+}
